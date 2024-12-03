@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 28
-
+    namespace "com.arm.malideveloper.openglessdk.common_java"
     defaultConfig {
         minSdkVersion 9
         targetSdkVersion 28

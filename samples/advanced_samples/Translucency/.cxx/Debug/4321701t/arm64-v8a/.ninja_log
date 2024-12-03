@@ -1,0 +1,20 @@
+# ninja log v5
+1	71	1733226191019523911	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/ETCHeader.cpp.o	c4e00436d1a0876e
+20	82	1733226191028525897	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/timer.cpp.o	6621ce44a7e82b5f
+6	82	1733226191034527221	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/Timer.cpp.o	52bf2ea1c556be05
+0	153	1733226191103542445	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/Shader.cpp.o	379e01e80be7368a
+1	206	1733226191153553477	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/Matrix.cpp.o	43ee2faa800759c8
+2	251	1733226191198563406	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/JavaClass.cpp.o	26806a4a9b69675d
+4	542	1733226191492628275	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/AndroidPlatform.cpp.o	777389e46e146f09
+1	554	1733226191504630923	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/Texture.cpp.o	6783ea8331dcd216
+0	554	1733226191505631143	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/Text.cpp.o	6fa8d03ed652f2a6
+71	575	1733226191526635777	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/main.cpp.o	a116ab2debb065d9
+554	586	1733226191536637983	advanced_samples/common_native/libcommon-native-gles3.a	625cfae9b753cb77
+15	592	1733226191544639748	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/primitives.cpp.o	b7021fba03c32d76
+19	734	1733226191683670417	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/shader.cpp.o	b57d117a42ee8dfe
+11	817	1733226191765688510	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/meshloader.cpp.o	73383fdd903b054d
+9	1030	1733226191976735066	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/glutil.cpp.o	eefe6281886407bd
+7	1055	1733226192002740802	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/app.cpp.o	5309436cd0360e4c
+1055	1167	1733226192111764844	../../../../build/intermediates/cxx/Debug/4321701t/obj/arm64-v8a/libNative.so	f508723832981811
+1	1099	1733228520303597872	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/app.cpp.o	5309436cd0360e4c
+1099	1220	1733228520414593242	../../../../build/intermediates/cxx/Debug/4321701t/obj/arm64-v8a/libNative.so	f508723832981811

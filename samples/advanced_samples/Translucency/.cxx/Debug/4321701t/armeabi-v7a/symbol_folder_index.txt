@@ -1,0 +1,1 @@
+/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/build/intermediates/cxx/Debug/4321701t/obj/armeabi-v7a

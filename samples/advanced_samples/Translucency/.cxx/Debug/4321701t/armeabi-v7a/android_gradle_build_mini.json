@@ -1,0 +1,90 @@
+{
+  "buildFiles": [
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/Sample.cmake",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/AntiAlias/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/AstcTextures/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/AstcTexturesLowPrecision/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ComputeParticles/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Cube/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/EGLPreserve/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCAtlasAlpha/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCCompressedAlpha/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCMipmap/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCUncompressedAlpha/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/FFTOceanWater/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/FrameBufferObject/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ListEGLConfigs/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Metaballs/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/MultisampledFBO/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/OcclusionCulling/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ProceduralGeometry/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/RotoZoom/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Skybox/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Template/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Tessellation/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ThreadSync/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Triangle/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/common_native/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/AssetLoading/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Bloom/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Boids/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/EtcTexture/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/FileLoading/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/FirstNative/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/FoveatedRendering/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/GraphicsSetup/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/InstancedTessellation/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Instancing/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/IntegerLogic/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Lighting/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/MinMaxBlending/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Mipmapping/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Multiview/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/NormalMapping/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/OcclusionQueries/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/ProjectedLights/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/ShadowMapping/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/SimpleCube/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/SimpleTriangle/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/TextureCube/CMakeLists.txt",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Vbo/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/usr/bin/ninja",
+      "-C",
+      "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/usr/bin/ninja",
+    "-C",
+    "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "Translucency::@db4dfb70e94739ca910b": {
+      "artifactName": "Translucency",
+      "abi": "armeabi-v7a",
+      "output": "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/build/intermediates/cxx/Debug/4321701t/obj/armeabi-v7a/libNative.so",
+      "runtimeFiles": []
+    },
+    "common-native::@627c3e00baf88f12f79b": {
+      "artifactName": "common-native",
+      "abi": "armeabi-v7a",
+      "output": "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/advanced_samples/common_native/libcommon-native.a",
+      "runtimeFiles": []
+    },
+    "common-native-gles3::@627c3e00baf88f12f79b": {
+      "artifactName": "common-native-gles3",
+      "abi": "armeabi-v7a",
+      "output": "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/advanced_samples/common_native/libcommon-native-gles3.a",
+      "runtimeFiles": []
+    }
+  }
+}

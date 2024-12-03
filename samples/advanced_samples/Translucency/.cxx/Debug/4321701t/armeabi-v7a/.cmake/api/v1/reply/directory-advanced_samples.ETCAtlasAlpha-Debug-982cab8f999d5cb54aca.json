@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "advanced_samples/ETCAtlasAlpha",
+		"source" : "advanced_samples/ETCAtlasAlpha"
+	}
+}

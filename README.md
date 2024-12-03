@@ -28,7 +28,7 @@ The software is provided under an MIT license. Contributions to this project are
 
 To build the sample applications:
 - Open Android Studio.
-- Click on "Open an existing Android Studio project" and point to the directory where you extracted the Android samples.
+- Click on "Open an existing Android Studio pro/home/yas/StudioProjects/SSSject" and point to the directory where you extracted the Android samples.
 - Now you can select individual samples and run them directly on your target device.
 
 #### Notes

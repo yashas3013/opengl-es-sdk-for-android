@@ -19,15 +19,19 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#extension GL_EXT_shader_pixel_local_storage : require
 precision highp float;
-
+/*
 __pixel_localEXT FragDataLocal {
     layout(rgb10_a2) vec4 lighting;
     layout(rg16f) vec2 minMaxDepth;
     layout(rgb10_a2) vec4 albedo;
     layout(rg16f) vec2 normalXY;
 } storage;
+*/
+layout(location = 0) out vec4 outLighting;
+layout(location = 1) out vec2 outMinMaxDepth;
+layout(location = 2) out vec4 outAlbedo;
+layout(location = 3) out vec2 outNormalXY;
 
 in vec4 vPosition;
 in vec3 vNormal;
@@ -94,6 +98,8 @@ void main()
     color += lambert(P, lightPos1, N, lightCol1, lightInt1);
     color *= (pattern + 0.2 * (1.0 - pattern)) * ao;
 
-    storage.lighting.rgb = color;
-    storage.lighting.a = 1.0;
+    outLighting = vec4(color, 1.0);
+    outMinMaxDepth = vec2(vPosition.z, vPosition.z); // Simple depth (you might want to adjust this)
+    outAlbedo = vec4(pattern); // Using pattern as a simple albedo
+    outNormalXY = N.xy; // Store normal XY components
 }

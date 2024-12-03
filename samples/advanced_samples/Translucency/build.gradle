@@ -6,7 +6,7 @@ println sample
 
 android {
     compileSdkVersion 28
-
+    namespace= "com.arm.malideveloper.openglessdk.translucency"
     defaultConfig {
         minSdkVersion "${minPlatformGles3}"
         targetSdkVersion 28
@@ -69,6 +69,6 @@ android {
     }
 }
 
-dependencies {
-   implementation project(':samples:advanced_samples:common_java')
-}
+//dependencies {
+//   implementation project(':samples:advanced_samples:common_java')
+//}

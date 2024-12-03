@@ -1,0 +1,740 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						27
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "advanced_samples",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					],
+					"jsonFile" : "directory-advanced_samples-Debug-c54717a0a9a792e8eae2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "advanced_samples"
+				},
+				{
+					"build" : "advanced_samples/common_native",
+					"jsonFile" : "directory-advanced_samples.common_native-Debug-b8f71375a9744b2f3571.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/common_native",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"build" : "advanced_samples/AntiAlias",
+					"jsonFile" : "directory-advanced_samples.AntiAlias-Debug-e0e89c6ac77098b4aa3a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/AntiAlias"
+				},
+				{
+					"build" : "advanced_samples/AstcTextures",
+					"jsonFile" : "directory-advanced_samples.AstcTextures-Debug-41104fb5cf225fe4e141.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/AstcTextures"
+				},
+				{
+					"build" : "advanced_samples/AstcTexturesLowPrecision",
+					"jsonFile" : "directory-advanced_samples.AstcTexturesLowPrecision-Debug-3bea0e38c5def8b010dd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/AstcTexturesLowPrecision"
+				},
+				{
+					"build" : "advanced_samples/ComputeParticles",
+					"jsonFile" : "directory-advanced_samples.ComputeParticles-Debug-3539d7b483da95132365.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/ComputeParticles"
+				},
+				{
+					"build" : "advanced_samples/Cube",
+					"jsonFile" : "directory-advanced_samples.Cube-Debug-14d4147142ffe3bdf614.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/Cube"
+				},
+				{
+					"build" : "advanced_samples/EGLPreserve",
+					"jsonFile" : "directory-advanced_samples.EGLPreserve-Debug-505cefd45af50a77f436.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/EGLPreserve"
+				},
+				{
+					"build" : "advanced_samples/ETCAtlasAlpha",
+					"jsonFile" : "directory-advanced_samples.ETCAtlasAlpha-Debug-982cab8f999d5cb54aca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/ETCAtlasAlpha"
+				},
+				{
+					"build" : "advanced_samples/ETCCompressedAlpha",
+					"jsonFile" : "directory-advanced_samples.ETCCompressedAlpha-Debug-94d23438c92ed0217d9f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/ETCCompressedAlpha"
+				},
+				{
+					"build" : "advanced_samples/ETCMipmap",
+					"jsonFile" : "directory-advanced_samples.ETCMipmap-Debug-fb30d31c08c3d6e818f0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/ETCMipmap"
+				},
+				{
+					"build" : "advanced_samples/ETCUncompressedAlpha",
+					"jsonFile" : "directory-advanced_samples.ETCUncompressedAlpha-Debug-f6d822d0a7beb2014724.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/ETCUncompressedAlpha"
+				},
+				{
+					"build" : "advanced_samples/FFTOceanWater",
+					"jsonFile" : "directory-advanced_samples.FFTOceanWater-Debug-92011691586211d04aaf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/FFTOceanWater"
+				},
+				{
+					"build" : "advanced_samples/FrameBufferObject",
+					"jsonFile" : "directory-advanced_samples.FrameBufferObject-Debug-c407d87d6aa7a72e9cbf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/FrameBufferObject"
+				},
+				{
+					"build" : "advanced_samples/ListEGLConfigs",
+					"jsonFile" : "directory-advanced_samples.ListEGLConfigs-Debug-221204e32cd736b8ab5d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/ListEGLConfigs"
+				},
+				{
+					"build" : "advanced_samples/Metaballs",
+					"jsonFile" : "directory-advanced_samples.Metaballs-Debug-8bee9fd713aad4315830.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/Metaballs"
+				},
+				{
+					"build" : "advanced_samples/MultisampledFBO",
+					"jsonFile" : "directory-advanced_samples.MultisampledFBO-Debug-f47493e63ac6fc90a052.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/MultisampledFBO"
+				},
+				{
+					"build" : "advanced_samples/OcclusionCulling",
+					"jsonFile" : "directory-advanced_samples.OcclusionCulling-Debug-45a537c6ac4c7b1e9170.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/OcclusionCulling"
+				},
+				{
+					"build" : "advanced_samples/ProceduralGeometry",
+					"jsonFile" : "directory-advanced_samples.ProceduralGeometry-Debug-06daa955f89f68cacb03.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/ProceduralGeometry"
+				},
+				{
+					"build" : "advanced_samples/RotoZoom",
+					"jsonFile" : "directory-advanced_samples.RotoZoom-Debug-8ea512f6baca38674f3b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/RotoZoom"
+				},
+				{
+					"build" : "advanced_samples/Skybox",
+					"jsonFile" : "directory-advanced_samples.Skybox-Debug-d840e0120f0be4cbd6b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/Skybox"
+				},
+				{
+					"build" : "advanced_samples/Template",
+					"jsonFile" : "directory-advanced_samples.Template-Debug-5ee7a8066b4e72651be0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/Template"
+				},
+				{
+					"build" : "advanced_samples/Tessellation",
+					"jsonFile" : "directory-advanced_samples.Tessellation-Debug-b93ea1546a868b7cdffb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/Tessellation"
+				},
+				{
+					"build" : "advanced_samples/ThreadSync",
+					"jsonFile" : "directory-advanced_samples.ThreadSync-Debug-1109fe65df3416c1b97c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/ThreadSync"
+				},
+				{
+					"build" : "advanced_samples/Translucency",
+					"jsonFile" : "directory-advanced_samples.Translucency-Debug-5a071c334fd51a1814e7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/Translucency",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "advanced_samples/Triangle",
+					"jsonFile" : "directory-advanced_samples.Triangle-Debug-b471eb276b7b5e852100.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "advanced_samples/Triangle"
+				},
+				{
+					"build" : "tutorials",
+					"childIndexes" : 
+					[
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50
+					],
+					"jsonFile" : "directory-tutorials-Debug-d407ad1453199e02e03f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tutorials"
+				},
+				{
+					"build" : "tutorials/AssetLoading",
+					"jsonFile" : "directory-tutorials.AssetLoading-Debug-e720d7446e0fe64955a7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/AssetLoading"
+				},
+				{
+					"build" : "tutorials/Boids",
+					"jsonFile" : "directory-tutorials.Boids-Debug-c9c0edfe67067e5f5a26.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/Boids"
+				},
+				{
+					"build" : "tutorials/FileLoading",
+					"jsonFile" : "directory-tutorials.FileLoading-Debug-df076b5d096ff56d6d93.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/FileLoading"
+				},
+				{
+					"build" : "tutorials/FoveatedRendering",
+					"jsonFile" : "directory-tutorials.FoveatedRendering-Debug-39ccb77c0ab37963edfa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/FoveatedRendering"
+				},
+				{
+					"build" : "tutorials/GraphicsSetup",
+					"jsonFile" : "directory-tutorials.GraphicsSetup-Debug-cc9279eb2adc86486ce0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/GraphicsSetup"
+				},
+				{
+					"build" : "tutorials/Instancing",
+					"jsonFile" : "directory-tutorials.Instancing-Debug-cc74afa72dbab3e672f2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/Instancing"
+				},
+				{
+					"build" : "tutorials/Lighting",
+					"jsonFile" : "directory-tutorials.Lighting-Debug-c880684245ae2d963fa3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/Lighting"
+				},
+				{
+					"build" : "tutorials/Mipmapping",
+					"jsonFile" : "directory-tutorials.Mipmapping-Debug-9e8acf2bb43b17f97565.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/Mipmapping"
+				},
+				{
+					"build" : "tutorials/NormalMapping",
+					"jsonFile" : "directory-tutorials.NormalMapping-Debug-5d6dd76f0ba123a8d196.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/NormalMapping"
+				},
+				{
+					"build" : "tutorials/ProjectedLights",
+					"jsonFile" : "directory-tutorials.ProjectedLights-Debug-a934e2be7437ffbd2c6e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/ProjectedLights"
+				},
+				{
+					"build" : "tutorials/SimpleCube",
+					"jsonFile" : "directory-tutorials.SimpleCube-Debug-02b20cdf13ec6bfda8ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/SimpleCube"
+				},
+				{
+					"build" : "tutorials/TextureCube",
+					"jsonFile" : "directory-tutorials.TextureCube-Debug-dda77c3a3fe8c2b13dc4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/TextureCube"
+				},
+				{
+					"build" : "tutorials/Bloom",
+					"jsonFile" : "directory-tutorials.Bloom-Debug-ab840068c5985cc2de39.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/Bloom"
+				},
+				{
+					"build" : "tutorials/EtcTexture",
+					"jsonFile" : "directory-tutorials.EtcTexture-Debug-4258c282a9d69b77703d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/EtcTexture"
+				},
+				{
+					"build" : "tutorials/FirstNative",
+					"jsonFile" : "directory-tutorials.FirstNative-Debug-79ac6f326bfaba73e0ac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/FirstNative"
+				},
+				{
+					"build" : "tutorials/InstancedTessellation",
+					"jsonFile" : "directory-tutorials.InstancedTessellation-Debug-fab1654acf9cd2efb23a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/InstancedTessellation"
+				},
+				{
+					"build" : "tutorials/IntegerLogic",
+					"jsonFile" : "directory-tutorials.IntegerLogic-Debug-02fedab4085de8bcb58d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/IntegerLogic"
+				},
+				{
+					"build" : "tutorials/MinMaxBlending",
+					"jsonFile" : "directory-tutorials.MinMaxBlending-Debug-9f73dad5145ad8d7c312.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/MinMaxBlending"
+				},
+				{
+					"build" : "tutorials/Multiview",
+					"jsonFile" : "directory-tutorials.Multiview-Debug-ad80233a66490a94d354.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/Multiview"
+				},
+				{
+					"build" : "tutorials/OcclusionQueries",
+					"jsonFile" : "directory-tutorials.OcclusionQueries-Debug-ec1c871ecbd0c1ac6844.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/OcclusionQueries"
+				},
+				{
+					"build" : "tutorials/ShadowMapping",
+					"jsonFile" : "directory-tutorials.ShadowMapping-Debug-6e4acfa08fc39ec29a45.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/ShadowMapping"
+				},
+				{
+					"build" : "tutorials/SimpleTriangle",
+					"jsonFile" : "directory-tutorials.SimpleTriangle-Debug-e484d90b29bc78164a4a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/SimpleTriangle"
+				},
+				{
+					"build" : "tutorials/Vbo",
+					"jsonFile" : "directory-tutorials.Vbo-Debug-796e179c36d6c94439e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 27,
+					"projectIndex" : 0,
+					"source" : "tutorials/Vbo"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50
+					],
+					"name" : "mali-android-samples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 25,
+					"id" : "Translucency::@db4dfb70e94739ca910b",
+					"jsonFile" : "target-Translucency-Debug-54986e06af8a7f6cbd22.json",
+					"name" : "Translucency",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "common-native::@627c3e00baf88f12f79b",
+					"jsonFile" : "target-common-native-Debug-4e57eab26c824672b61b.json",
+					"name" : "common-native",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "common-native-gles3::@627c3e00baf88f12f79b",
+					"jsonFile" : "target-common-native-gles3-Debug-1abbdb689e0196d6b51e.json",
+					"name" : "common-native-gles3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a",
+		"source" : "/home/yas/Projects/opengl-es-sdk-for-android/samples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

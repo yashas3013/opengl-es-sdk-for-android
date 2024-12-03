@@ -28,12 +28,12 @@
 #include "meshloader.h"
 #include <fstream>
 
-#ifndef GL_EXT_shader_pixel_local_storage
-#define GL_EXT_shader_pixel_local_storage 1
-#define GL_MAX_SHADER_PIXEL_LOCAL_STORAGE_FAST_SIZE_EXT 0x8F63
-#define GL_MAX_SHADER_PIXEL_LOCAL_STORAGE_SIZE_EXT 0x8F67
-#define GL_SHADER_PIXEL_LOCAL_STORAGE_EXT 0x8F64
-#endif
+//#ifndef GL_EXT_shader_pixel_local_storage
+//#define GL_EXT_shader_pixel_local_storage 1
+//#define GL_MAX_SHADER_PIXEL_LOCAL_STORAGE_FAST_SIZE_EXT 0x8F63
+//#define GL_MAX_SHADER_PIXEL_LOCAL_STORAGE_SIZE_EXT 0x8F67
+//#define GL_SHADER_PIXEL_LOCAL_STORAGE_EXT 0x8F64
+//#endif
 
 int 
     window_width,
@@ -98,8 +98,8 @@ bool init_app(int width, int height)
     aspect_ratio = float(width) / height;
 
     // Check if we have support for pixel local storage
-    std::string ext = std::string((const char*)glGetString(GL_EXTENSIONS));
-    ASSERT(ext.find("GL_EXT_shader_pixel_local_storage") != std::string::npos, "This device does not support shader pixel local storage");
+//    std::string ext = std::string((const char*)glGetString(GL_EXTENSIONS));
+//    ASSERT(ext.find("GL_EXT_shader_pixel_local_storage") != std::string::npos, "This device does not support shader pixel local storage");
 
     string res = "/data/data/com.arm.malideveloper.openglessdk.translucency/files/";
     if (!shader_prepass.load_from_file(res + "prepass.vs", res + "prepass.fs") ||
@@ -264,7 +264,7 @@ void render_app(float dt)
     // Clearing all buffers at the beginning can lead to better performance
     glEnable(GL_DEPTH_TEST);
     glEnable(GL_STENCIL_TEST);
-    glEnable(GL_SHADER_PIXEL_LOCAL_STORAGE_EXT);
+//    glEnable(GL_SHADER_PIXEL_LOCAL_STORAGE_EXT);
     glDepthMask(GL_TRUE);
     glStencilMask(0xFF);
     glClearDepthf(1.0f);
@@ -308,7 +308,7 @@ void render_app(float dt)
     glStencilFunc(GL_ALWAYS, 0, 0xFF);
     render_pass_resolve();
     glDisable(GL_STENCIL_TEST);
-    glDisable(GL_SHADER_PIXEL_LOCAL_STORAGE_EXT);
+//    glDisable(GL_SHADER_PIXEL_LOCAL_STORAGE_EXT);
 
     // These are no longer needed, so we don't bother writing back to framebuffer.
     GLenum to_invalidate[] = { GL_DEPTH, GL_STENCIL };
