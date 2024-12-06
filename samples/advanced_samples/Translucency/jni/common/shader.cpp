@@ -62,7 +62,24 @@ bool link_program(GLuint program, std::vector<GLuint> shaders)
         glGetProgramiv(program, GL_INFO_LOG_LENGTH, &length);
         GLchar *info = new GLchar[length];
         glGetProgramInfoLog(program, length, NULL, info);
+
+        // Add more detailed logging
         LOGE("Error linking program: %s\n", info);
+
+        // Check active uniforms
+        GLint uniformCount;
+        glGetProgramiv(program, GL_ACTIVE_UNIFORMS, &uniformCount);
+        LOGE("Number of active uniforms: %d\n", uniformCount);
+
+        for (int i = 0; i < uniformCount; i++) {
+            GLchar uniformName[256];
+            GLsizei length;
+            GLint size;
+            GLenum type;
+            glGetActiveUniform(program, i, sizeof(uniformName), &length, &size, &type, uniformName);
+            LOGE("Uniform %d: name=%s, size=%d, type=%d\n", i, uniformName, size, type);
+        }
+
         delete[] info;
         return false;
     }
@@ -140,6 +157,7 @@ void Shader::unuse()
 
 GLint Shader::get_uniform_location(string name)
 {
+//    LOGI("Uniform %s"+name);
     std::unordered_map<std::string, GLint>::iterator it = m_uniforms.find(name);
     if(it != m_uniforms.end())
     {

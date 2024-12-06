@@ -16,3 +16,8 @@
 5	764	1733227096062826533	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/meshloader.cpp.o	f3fb089f1db2bb6d
 5	768	1733227096067830578	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/glutil.cpp.o	15bcfca3aee20fe0
 769	872	1733227096164909053	../../../../build/intermediates/cxx/Debug/4321701t/obj/armeabi-v7a/libNative.so	23c816b38a54b0d9
+3	533	1733458932021229015	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/app.cpp.o	f84e52cadc1cef78
+533	691	1733458932180814816	../../../../build/intermediates/cxx/Debug/4321701t/obj/armeabi-v7a/libNative.so	23c816b38a54b0d9
+1	352	1733463379772556562	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/app.cpp.o	f84e52cadc1cef78
+1	362	1733463379782556748	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/shader.cpp.o	9c49eaa7db04946
+362	440	1733463379856558125	../../../../build/intermediates/cxx/Debug/4321701t/obj/armeabi-v7a/libNative.so	23c816b38a54b0d9

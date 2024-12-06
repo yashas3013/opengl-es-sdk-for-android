@@ -2,130 +2,130 @@ C/C++ Structured LogG
 E
 C/home/yas/Projects/opengl-es-sdk-for-android/samples/CMakeLists.txtC
 A
-?com.android.build.gradle.internal.cxx.io.EncodedFileFingerPrint	¼¨¤ã¸2´ Ş§¥Ä¸2E
+?com.android.build.gradle.internal.cxx.io.EncodedFileFingerPrint	Ï›àÓ¹2´ Ş§¥Ä¸2E
 C
-A/home/yas/Projects/opengl-es-sdk-for-android/samples/Sample.cmake	¼¨¤ã¸2¹
+A/home/yas/Projects/opengl-es-sdk-for-android/samples/Sample.cmake	Ï›àÓ¹2¹
  Ş§¥Ä¸2b
 `
-^/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/AntiAlias/CMakeLists.txt	¼¨¤ã¸2 Ş§¥Ä¸2e
+^/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/AntiAlias/CMakeLists.txt	Ï›àÓ¹2 Ş§¥Ä¸2e
 c
-a/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/AstcTextures/CMakeLists.txt	¼¨¤ã¸2‡ à§¥Ä¸2q
+a/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/AstcTextures/CMakeLists.txt	Ï›àÓ¹2‡ à§¥Ä¸2q
 o
-m/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/AstcTexturesLowPrecision/CMakeLists.txt	¼¨¤ã¸2‡ ’¨¥Ä¸2X
+m/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/AstcTexturesLowPrecision/CMakeLists.txt	Ï›àÓ¹2‡ ’¨¥Ä¸2X
 V
-T/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/CMakeLists.txt	¼¨¤ã¸2— ±¨¥Ä¸2i
+T/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/CMakeLists.txt	Ï›àÓ¹2— ±¨¥Ä¸2i
 g
-e/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ComputeParticles/CMakeLists.txt	¼¨¤ã¸2¢ ±¨¥Ä¸2]
+e/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ComputeParticles/CMakeLists.txt	Ï›àÓ¹2¢ ±¨¥Ä¸2]
 [
-Y/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Cube/CMakeLists.txt	¼¨¤ã¸2	 ²¨¥Ä¸2d
+Y/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Cube/CMakeLists.txt	Ï›àÓ¹2	 ²¨¥Ä¸2d
 b
-`/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/EGLPreserve/CMakeLists.txt	¼¨¤ã¸2
+`/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/EGLPreserve/CMakeLists.txt	Ï›àÓ¹2
  ²¨¥Ä¸2f
 d
-b/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCAtlasAlpha/CMakeLists.txt	¼¨¤ã¸2 ³¨¥Ä¸2k
+b/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCAtlasAlpha/CMakeLists.txt	Ï›àÓ¹2 ³¨¥Ä¸2k
 i
-g/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCCompressedAlpha/CMakeLists.txt	¼¨¤ã¸2 ´¨¥Ä¸2b
+g/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCCompressedAlpha/CMakeLists.txt	Ï›àÓ¹2 ´¨¥Ä¸2b
 `
-^/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCMipmap/CMakeLists.txt	¼¨¤ã¸2 ´¨¥Ä¸2m
+^/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCMipmap/CMakeLists.txt	Ï›àÓ¹2 ´¨¥Ä¸2m
 k
-i/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCUncompressedAlpha/CMakeLists.txt	¼¨¤ã¸2 µ¨¥Ä¸2f
+i/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ETCUncompressedAlpha/CMakeLists.txt	Ï›àÓ¹2 µ¨¥Ä¸2f
 d
-b/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/FFTOceanWater/CMakeLists.txt	¼¨¤ã¸2 ¶¨¥Ä¸2j
+b/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/FFTOceanWater/CMakeLists.txt	Ï›àÓ¹2 ¶¨¥Ä¸2j
 h
-f/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/FrameBufferObject/CMakeLists.txt	¼¨¤ã¸2 ·¨¥Ä¸2g
+f/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/FrameBufferObject/CMakeLists.txt	Ï›àÓ¹2 ·¨¥Ä¸2g
 e
-c/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ListEGLConfigs/CMakeLists.txt	¼¨¤ã¸2 ¸¨¥Ä¸2b
+c/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ListEGLConfigs/CMakeLists.txt	Ï›àÓ¹2 ¸¨¥Ä¸2b
 `
-^/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Metaballs/CMakeLists.txt	¼¨¤ã¸2‡ ¹¨¥Ä¸2h
+^/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Metaballs/CMakeLists.txt	Ï›àÓ¹2‡ ¹¨¥Ä¸2h
 f
-d/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/MultisampledFBO/CMakeLists.txt	¼¨¤ã¸2‡ ¹¨¥Ä¸2i
+d/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/MultisampledFBO/CMakeLists.txt	Ï›àÓ¹2‡ ¹¨¥Ä¸2i
 g
-e/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/OcclusionCulling/CMakeLists.txt	¼¨¤ã¸2‡ ¼¨¥Ä¸2k
+e/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/OcclusionCulling/CMakeLists.txt	Ï›àÓ¹2‡ ¼¨¥Ä¸2k
 i
-g/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ProceduralGeometry/CMakeLists.txt	¼¨¤ã¸2Š ½¨¥Ä¸2a
+g/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ProceduralGeometry/CMakeLists.txt	Ï›àÓ¹2Š ½¨¥Ä¸2a
 _
-]/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/RotoZoom/CMakeLists.txt	¼¨¤ã¸2 ¿¨¥Ä¸2_
+]/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/RotoZoom/CMakeLists.txt	Ï›àÓ¹2 ¿¨¥Ä¸2_
 ]
-[/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Skybox/CMakeLists.txt	¼¨¤ã¸2‡ À¨¥Ä¸2a
+[/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Skybox/CMakeLists.txt	Ï›àÓ¹2‡ À¨¥Ä¸2a
 _
-]/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Template/CMakeLists.txt	¼¨¤ã¸2 ó¨¥Ä¸2e
+]/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Template/CMakeLists.txt	Ï›àÓ¹2 ó¨¥Ä¸2e
 c
-a/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Tessellation/CMakeLists.txt	¼¨¤ã¸2Š ü¨¥Ä¸2c
+a/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Tessellation/CMakeLists.txt	Ï›àÓ¹2Š ü¨¥Ä¸2c
 a
-_/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ThreadSync/CMakeLists.txt	¼¨¤ã¸2‡ ¶©¥Ä¸2•
+_/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/ThreadSync/CMakeLists.txt	Ï›àÓ¹2‡ ¶©¥Ä¸2•
 ’
-/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/additional_project_files.txt	¼¨¤ã¸2 ÓÉŠã¸2’
+/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/additional_project_files.txt	Ï›àÓ¹2 ÓÉŠã¸2’
 
-Œ/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/android_gradle_build.json	¼¨¤ã¸2¹7 ÖÉŠã¸2—
+Œ/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/android_gradle_build.json	Ï›àÓ¹2¹7 ÖÉŠã¸2—
 ”
-‘/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/android_gradle_build_mini.json	¼¨¤ã¸2£4 îÉŠã¸2ƒ
+‘/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/android_gradle_build_mini.json	Ï›àÓ¹2£4 îÉŠã¸2ƒ
 €
-~/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/build.ninja	¼¨¤ã¸2‹´	 ¸ÉŠã¸2ˆ
+~/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/build.ninja	Ï›àÓ¹2‹´	 ¸ÉŠã¸2ˆ
 …
-‚/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/build.ninja.txt	¼¨¤ã¸2
+‚/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/build.ninja.txt	Ï›àÓ¹2
 Š
-‡/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/build_file_index.txt	¼¨¤ã¸2 é% ïÉŠã¸2
+‡/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/build_file_index.txt	Ï›àÓ¹2 é% ïÉŠã¸2
 ‹
-ˆ/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/compile_commands.json	¼¨¤ã¸2!’Ò ¸ÉŠã¸2’
+ˆ/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/compile_commands.json	Ï›àÓ¹2!’Ò ¸ÉŠã¸2’
 
-Œ/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/compile_commands.json.bin	¼¨¤ã¸2"ä( ¸ÉŠã¸2˜
+Œ/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/compile_commands.json.bin	Ï›àÓ¹2"ä( ¸ÉŠã¸2˜
 •
-’/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/metadata_generation_command.txt	¼¨¤ã¸2#ß	 îÉŠã¸2‹
+’/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/metadata_generation_command.txt	Ï›àÓ¹2#ß	 îÉŠã¸2‹
 ˆ
-…/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/prefab_config.json	¼¨¤ã¸2$( îÉŠã¸2
+…/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/prefab_config.json	Ï›àÓ¹2$( îÉŠã¸2
 
-Š/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/symbol_folder_index.txt	¼¨¤ã¸2%‰ ïÉŠã¸2e
+Š/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/symbol_folder_index.txt	Ï›àÓ¹2%‰ ïÉŠã¸2e
 c
-a/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/CMakeLists.txt	¼¨¤ã¸2&… ·©¥Ä¸2a
+a/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Translucency/CMakeLists.txt	Ï›àÓ¹2&… ·©¥Ä¸2a
 _
-]/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Triangle/CMakeLists.txt	¼¨¤ã¸2' ¸©¥Ä¸2f
+]/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/Triangle/CMakeLists.txt	Ï›àÓ¹2' ¸©¥Ä¸2f
 d
-b/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/common_native/CMakeLists.txt	¼¨¤ã¸2(Ó ¸©¥Ä¸2^
+b/home/yas/Projects/opengl-es-sdk-for-android/samples/advanced_samples/common_native/CMakeLists.txt	Ï›àÓ¹2(Ó ¸©¥Ä¸2^
 \
-Z/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/AssetLoading/CMakeLists.txt	¼¨¤ã¸2)£ ¹©¥Ä¸2W
+Z/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/AssetLoading/CMakeLists.txt	Ï›àÓ¹2)£ ¹©¥Ä¸2W
 U
-S/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Bloom/CMakeLists.txt	¼¨¤ã¸2*‡ Õ©¥Ä¸2W
+S/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Bloom/CMakeLists.txt	Ï›àÓ¹2*‡ Õ©¥Ä¸2W
 U
-S/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Boids/CMakeLists.txt	¼¨¤ã¸2+‡ Õ©¥Ä¸2Q
+S/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Boids/CMakeLists.txt	Ï›àÓ¹2+‡ Õ©¥Ä¸2Q
 O
-M/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/CMakeLists.txt	¼¨¤ã¸2,¼ Ö©¥Ä¸2\
+M/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/CMakeLists.txt	Ï›àÓ¹2,¼ Ö©¥Ä¸2\
 Z
-X/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/EtcTexture/CMakeLists.txt	¼¨¤ã¸2-‡ Ö©¥Ä¸2]
+X/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/EtcTexture/CMakeLists.txt	Ï›àÓ¹2-‡ Ö©¥Ä¸2]
 [
-Y/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/FileLoading/CMakeLists.txt	¼¨¤ã¸2. Û©¥Ä¸2]
+Y/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/FileLoading/CMakeLists.txt	Ï›àÓ¹2. Û©¥Ä¸2]
 [
-Y/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/FirstNative/CMakeLists.txt	¼¨¤ã¸2/ Ü©¥Ä¸2c
+Y/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/FirstNative/CMakeLists.txt	Ï›àÓ¹2/ Ü©¥Ä¸2c
 a
-_/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/FoveatedRendering/CMakeLists.txt	¼¨¤ã¸20– Ü©¥Ä¸2_
+_/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/FoveatedRendering/CMakeLists.txt	Ğ›àÓ¹20– Ü©¥Ä¸2_
 ]
-[/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/GraphicsSetup/CMakeLists.txt	¼¨¤ã¸21 Ãª¥Ä¸2g
+[/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/GraphicsSetup/CMakeLists.txt	Ğ›àÓ¹21 Ãª¥Ä¸2g
 e
-c/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/InstancedTessellation/CMakeLists.txt	¼¨¤ã¸22‡ Åª¥Ä¸2\
+c/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/InstancedTessellation/CMakeLists.txt	Ğ›àÓ¹22‡ Åª¥Ä¸2\
 Z
-X/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Instancing/CMakeLists.txt	½¨¤ã¸23‡ Æª¥Ä¸2^
+X/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Instancing/CMakeLists.txt	Ğ›àÓ¹23‡ Æª¥Ä¸2^
 \
-Z/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/IntegerLogic/CMakeLists.txt	½¨¤ã¸24‡ Çª¥Ä¸2Z
+Z/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/IntegerLogic/CMakeLists.txt	Ğ›àÓ¹24‡ Çª¥Ä¸2Z
 X
-V/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Lighting/CMakeLists.txt	½¨¤ã¸25 Èª¥Ä¸2`
+V/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Lighting/CMakeLists.txt	Ğ›àÓ¹25 Èª¥Ä¸2`
 ^
-\/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/MinMaxBlending/CMakeLists.txt	½¨¤ã¸26Â Èª¥Ä¸2\
+\/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/MinMaxBlending/CMakeLists.txt	Ğ›àÓ¹26Â Èª¥Ä¸2\
 Z
-X/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Mipmapping/CMakeLists.txt	½¨¤ã¸27 «¥Ä¸2[
+X/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Mipmapping/CMakeLists.txt	Ğ›àÓ¹27 «¥Ä¸2[
 Y
-W/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Multiview/CMakeLists.txt	½¨¤ã¸28‡ ƒ«¥Ä¸2_
+W/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Multiview/CMakeLists.txt	Ğ›àÓ¹28‡ ƒ«¥Ä¸2_
 ]
-[/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/NormalMapping/CMakeLists.txt	½¨¤ã¸29 „«¥Ä¸2b
+[/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/NormalMapping/CMakeLists.txt	Ğ›àÓ¹29 „«¥Ä¸2b
 `
-^/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/OcclusionQueries/CMakeLists.txt	½¨¤ã¸2:‡ „«¥Ä¸2a
+^/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/OcclusionQueries/CMakeLists.txt	Ğ›àÓ¹2:‡ „«¥Ä¸2a
 _
-]/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/ProjectedLights/CMakeLists.txt	½¨¤ã¸2;‡ …«¥Ä¸2_
+]/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/ProjectedLights/CMakeLists.txt	Ğ›àÓ¹2;‡ …«¥Ä¸2_
 ]
-[/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/ShadowMapping/CMakeLists.txt	½¨¤ã¸2<‡ ‡«¥Ä¸2\
+[/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/ShadowMapping/CMakeLists.txt	Ğ›àÓ¹2<‡ ‡«¥Ä¸2\
 Z
-X/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/SimpleCube/CMakeLists.txt	½¨¤ã¸2= ˆ«¥Ä¸2`
+X/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/SimpleCube/CMakeLists.txt	Ğ›àÓ¹2= ˆ«¥Ä¸2`
 ^
-\/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/SimpleTriangle/CMakeLists.txt	½¨¤ã¸2> ˆ«¥Ä¸2]
+\/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/SimpleTriangle/CMakeLists.txt	Ğ›àÓ¹2> ˆ«¥Ä¸2]
 [
-Y/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/TextureCube/CMakeLists.txt	½¨¤ã¸2? ‰«¥Ä¸2U
+Y/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/TextureCube/CMakeLists.txt	Ğ›àÓ¹2? ‰«¥Ä¸2U
 S
-Q/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Vbo/CMakeLists.txt	½¨¤ã¸2@ ‰«¥Ä¸2
+Q/home/yas/Projects/opengl-es-sdk-for-android/samples/tutorials/Vbo/CMakeLists.txt	Ğ›àÓ¹2@ ‰«¥Ä¸2
